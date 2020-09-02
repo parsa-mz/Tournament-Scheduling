@@ -1,7 +1,7 @@
 
 # Tournament Scheduling
 
-This is a Divide and coquare approach for the Tournament Scheduling.
+This is a Divide and conquer approach for the Tournament Scheduling.
 
 ## The problem
 
